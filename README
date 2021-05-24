@@ -1,0 +1,1 @@
+Program służy do wyliczania pola oraz objętości według wartości podanej przy uruchamianiu. Przed uruchomieniem należy pamietać aby dodać obecną ścieżkę do LD_LIBRARY_PATH.
