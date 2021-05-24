@@ -1,0 +1,1 @@
+float obj(int a);

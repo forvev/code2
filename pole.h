@@ -1,0 +1,1 @@
+float pol(int a);
